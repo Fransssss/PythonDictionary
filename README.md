@@ -2,7 +2,6 @@
 Python Dictionaries - Several Nation and its Capital
 
 Objectives:
-- Learn Dictionary:
 - object.item()
 - object.key()
 - object.values()
