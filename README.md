@@ -1,13 +1,14 @@
 # PythonDictionary
 Python Dictionaries - Several Nation and its Capital
 
-Objective:
-- Learn Dictionary  - object.item()
-                    - object.key()
-                    - object.values()
-                    - object.pop()
-                    - object.update()
-                    - object.clear()
+Objectives:
+- Learn Dictionary:
+- object.item()
+- object.key()
+- object.values()
+- object.pop()
+- object.update()
+- object.clear()
           
  
  Example Output:
